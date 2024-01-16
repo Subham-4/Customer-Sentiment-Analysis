@@ -28,13 +28,10 @@ The dataset undergoes several preprocessing steps:
 
 Three different machine learning models are trained on the preprocessed data:
 
-1. **XGBoost Classifier:** Achieves an accuracy of approximately 88% on the test set.
-
-2. **Neural Network:** A simple neural network with dropout layers. Achieves an accuracy of around 86% on the test set.
-
-3. **Logistic Regression:** Achieves an accuracy of approximately 86% on the test set.
-
-4. **K-Nearest Neighbors (KNN):** Achieves accuracy scores around 84%.
+1. XGBoost Classifier
+2. Neural Network
+3. Logistic Regression
+4. K-Nearest Neighbors (KNN)
 
 ## Evaluation and Visualization
 
